@@ -109,3 +109,6 @@ if (this.registerForm.phone == '' || this.registerForm.captcha == '') {
 ...
 </el-dialog>
 ```
+
+## 使用国际化i18n
+
